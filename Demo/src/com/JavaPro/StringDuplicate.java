@@ -1,4 +1,4 @@
-package ProjectPackage;
+package com.JavaPro;
 
 import java.util.HashMap;
 import java.util.Map;
